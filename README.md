@@ -1,7 +1,7 @@
 # Codestral_Hackathon_2024
 
 
-# Code Assist+ User Manual
+## Code Assist+ User Manual
 
 ## Introduction
 
